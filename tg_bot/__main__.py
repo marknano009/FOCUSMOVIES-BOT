@@ -18,7 +18,8 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-This Bot is exclusively made for Movies Club Group .....
+no one gonna help you 🤣🤣🤣🤣
+For any movies join channel and group given below 😜😜
 
 """
 
